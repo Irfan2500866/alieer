@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://shorturl.at/glz05` 
+					`https://mindlessslogan.com/jqqkizmr6?key=6b8373af387ea899a4d10d00ea24e6da` 
 				}`,
 			},
 		};
